@@ -8,7 +8,7 @@ class Solution:
             if len(s) > 2:
                 res.append(s.title())
             else:
-                res.append(s.capitalize())
+                res.append(s.lower())
         return ' '.join(res)
 
 
