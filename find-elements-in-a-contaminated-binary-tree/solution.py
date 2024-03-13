@@ -1,4 +1,5 @@
-# Definition for a binary tree node.
+# 1261. 在受污染的二叉树中查找元素
+# https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/description
 from collections import deque
 from typing import Optional
 
